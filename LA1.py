@@ -1,2 +1,5 @@
-# OOP
-LA's and OE's
+Class mobaylhero():
+    Name = “Balmond”
+
+Fighter = mobaylhero()
+Print(fighter.name)
