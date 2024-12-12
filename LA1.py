@@ -1,5 +1,5 @@
-Class mobaylhero():
-    Name = “Balmond”
+class mobaylhero():
+    name = “Balmond”
 
-Fighter = mobaylhero()
-Print(fighter.name)
+fighter = mobaylhero()
+print(fighter.name)
